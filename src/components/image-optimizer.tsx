@@ -91,7 +91,7 @@ export default function ImageOptimizer() {
                 {/* Header */}
                 <div className="p-8 border-b border-zinc-800 text-center">
                     <h1 className="text-3xl font-bold bg-gradient-to-r from-indigo-400 to-cyan-400 bg-clip-text text-transparent mb-2">
-                        Optimizador de Imágenes hecho con Antigravity
+                        Optimizador de Imágenes
                     </h1>
                     <p className="text-zinc-400">
                         Reduce el peso de tus imágenes sin perder calidad.
